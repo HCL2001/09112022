@@ -8,7 +8,7 @@ public class QuadraticEquation {
     }
 
     public void getA(float A){
-        this.a = A;
+        a = A;
     }
 
     public void getB(float B){
